@@ -1,4 +1,4 @@
-# Diabetes Prediction using Machine Learning
+# Diabetes Prediction using **Support Vector Machine (SVM)**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/diabetes-prediction-ml/blob/main/Diabetes_Prediction.ipynb)
 
